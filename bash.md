@@ -18,3 +18,8 @@
 * What it does: Moves chosen file(or files) to new destination inside documents etc
 * Tips and Tricks :
     * You can rename a file by having its "destination" be a new filename
+---
+### `pwd`
+* Usage: `pwd`
+* What it does: Prints working directory allows to see what is inside folder or file
+* 
