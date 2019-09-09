@@ -24,11 +24,22 @@
 ### `pwd`
 * Usage: `pwd`
 * What it does: Prints working directory allows to see what is inside folder or file
-*---
+---
 ### 'mkdir'
 * Usage: `mkdir [directory name(s)]`
-* What it does: Creates new directory or file/folder
+* What it does: Creates new directory path
 * Tips and Tricks:
     * Useful Flags:
         * `-p` `Creates multiple paths for new directory`
-        
+---
+### 'touch'
+* Usage: `touch [File name(s)]`
+* What it does: Makes a file(s)
+---
+### 'rm'
+* Usage: `rm [directory name(s) or file name(s)]`
+* What it does: Removes file(s) or directory
+    * Useful Flags:
+        * `-rf` `Removes directory`
+    ---
+
