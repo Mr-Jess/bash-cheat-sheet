@@ -37,8 +37,8 @@
 * What it does: Makes a file(s)
 ---
 ### 'rm'
-* Usage: `rm [directory name(s) or file name(s)]`
-* What it does: Removes file(s) or directory
+* Usage: `rm [file name(s)]`
+* What it does: Removes file(s)
     * Useful Flags:
         * `-rf` `Removes directory`
     ---
