@@ -40,8 +40,9 @@
 ---
 ### `cp`
 * Usage: `cp` `copies files[...] to location`
-* What it does: Copies chosen file(s) to selected location
-    * Useful Flags: `-r` `Copies files
+* What it does: Copies chosen file(s) to selected location along with its folder
+    * Useful Flags:
+        * `-r` `Copies entire directory path`
 ---
 
 
